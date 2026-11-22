@@ -1,4 +1,4 @@
-# java-troubleshooting-labs
+# jvm‑ops‑playbook
 
 > 聚焦线上高频 JVM 稳定性故障，基于原生单文件 `.java` 复现故障现场，配合 `jcmd`、Unified GC Logging (`-Xlog`)、`jstack`、`Arthas` 与 `Eclipse MAT` 完成现象观测与根因定位，并通过工程化代码改造（如 Maven + Caffeine）完成修复验证的完整闭环。
 
